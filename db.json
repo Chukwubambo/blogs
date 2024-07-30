@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "my first blog",
+      "body": "updated",
+      "author": "Senior Dev Ade ",
+      "id": "1"
+    },
+    {
+      "id": "a759",
+      "title": "my second blog",
+      "body": "body body body",
+      "author": "Banks Media"
+    },
+    {
+      "id": "4ba9",
+      "title": "my second blog",
+      "body": "body body body",
+      "author": "Banks Media"
+    }
+  ]
+}
